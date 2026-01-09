@@ -1,0 +1,8 @@
+{
+  "lavamoat": {
+    "allowScripts": {
+      "keccak": true,
+      "core-js": false
+    }
+  }
+}
